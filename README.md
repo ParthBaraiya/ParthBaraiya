@@ -6,7 +6,7 @@
 ### What I'm upto these days
 
 - Currently I'm experimenting with different features of flutter and dart to learn more about flutter.
-- And for breaks, Watching tones of Anime.
+- And for breaks, Watching Anime.
 
 ### Technologies/Languages I've worked in
 

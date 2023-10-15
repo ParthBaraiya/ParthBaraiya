@@ -18,7 +18,8 @@
 - Web Development (with HTML, CSS, JS and PHP)
 - Node.js
 - Laravel
-- Django (Python)
+- Django
+- Python
 - Google Cloud and Firebase
 - AWS
 

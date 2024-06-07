@@ -8,7 +8,7 @@
 - Currently I'm experimenting with different features of flutter and dart to learn more about flutter.
 - And for breaks, Watching One Piece.
 
-### Technologies/Languages I've worked in
+### Technologies/Languages I've worked in or has basic idea about,
 
 - Flutter and Dart
 - C and C++ (Mostly used for creating shared libraries for flutter projects)
@@ -22,6 +22,8 @@
 - Python
 - Google Cloud and Firebase
 - AWS
+- Rust
+- Unreal Engine
 
 
 ***Statistics***
